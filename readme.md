@@ -14,3 +14,6 @@ dfkkdf
 Use 'git status' to help you find the commands to unstage or restore files
 If you run "git checkout <HASH> without the file
 You can fix this by running  "git checkout main"
+  'ssh-keygen
+  git remote add url
+  
