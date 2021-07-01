@@ -7,3 +7,10 @@
 'git log --oneline': shows you the one live version of log
 "HEAD: where you currently are 
 git diff HEAD "Number"
+xsfsddddddfffffffffffffffffffffffffffffffffffffffff
+kdfdfdkfj
+dfkkdf
+'git checkout' <HASH> <FILE>: restore <FIle> to version in <HASH>
+Use 'git status' to help you find the commands to unstage or restore files
+If you run "git checkout <HASH> without the file
+You can fix this by running  "git checkout main"
