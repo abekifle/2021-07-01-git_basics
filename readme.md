@@ -1,4 +1,4 @@
-#git basics
+#git basics2
 'git inti' : initialize
 'git status": gives you the status
 'git add ,FILE>': adds <File>
